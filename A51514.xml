@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An admonition to the reader of Sir Peter Leicester's books. Written by Sir T. M.</title>
+            <author>Mainwaring, Thomas, Sir, 1623-1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51514</idno>
+            <idno type="STC">Wing M297</idno>
+            <idno type="STC">ESTC R218644</idno>
+            <idno type="EEBO-CITATION">99830217</idno>
+            <idno type="PROQUEST">99830217</idno>
+            <idno type="VID">34667</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51514)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34667)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2034:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An admonition to the reader of Sir Peter Leicester's books. Written by Sir T. M.</title>
+                  <author>Mainwaring, Thomas, Sir, 1623-1689.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sir T.M. = Sir Thomas Mainwaring.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signed and dated at end: T.M. Baddeley, August 4. 1676.</note>
+                  <note>A reply to " Leycester, Sir Peter. Historical antiquities.</note>
+                  <note>Reproduction of the original in the Trinity College Library, Cambridge.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Leycester, Peter, --  Sir, 1614-1678. --  Historical antiquities --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34667:1"/>
+            <pb facs="tcp:34667:1" rendition="simple:additions"/>
+            <p>AN ADMONITION To the Reader of Sir <hi>Peter Leiceſter</hi>'s Books.</p>
+            <p>Written by Sir <hi>T. M.</hi>
+            </p>
+            <p>Printed in the Year 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:34667:2"/>
+            <pb n="3" facs="tcp:34667:2"/>
+            <head>An Admonition to the Reader of Sir <hi>Peter Leiceſter</hi>'s Books.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat you may know <hi>Her<g ref="char:EOLhyphen"/>cules</hi> by his Foot, and not, with ſome few per<g ref="char:EOLhyphen"/>ſons, confidently believe every thing which Sir <hi>Pe<g ref="char:EOLhyphen"/>ter Leiceſter</hi> doth write, I here give you an account of the Par<g ref="char:EOLhyphen"/>tiality, Omiſſions, Uncertainties, and Miſtakes of the ſaid Sir <hi>Peter,</hi> in thoſe two Sheets of his <hi>Hiſtorical Antiquities,</hi> in which he writes of the Townſhip of <hi>Over Peover.</hi> And I cannot but wonder that they are ſo numerous, conſidering he always had liberty to peruſe any Deeds or Copies of Records which I had in my cuſtody; and that I alſo was
+<pb n="4" facs="tcp:34667:3"/>ever willing to give him any other aſ<g ref="char:EOLhyphen"/>ſiſtance concerning my Family, which did lie in my power.</p>
+            <p>Firſt, in his 330 page, he calls <hi>Ranul<g ref="char:EOLhyphen"/>phus</hi> (who, as he confeſſeth, in the Con<g ref="char:EOLhyphen"/>queror's time held this Townſhip of <hi>Peover,</hi> or the greateſt part thereof) the ſuppoſed Anceſtor of the <hi>Main<g ref="char:EOLhyphen"/>warings,</hi> as he alſo uſually doth in other Townſhips where he hath occaſion to name the ſaid <hi>Randle;</hi> and yet, as you may ſee, <hi>page</hi> 208. he calls <hi>Odard</hi> the undoubted Anceſtor of the <hi>Duttons.</hi> Now what reaſon he can have to call <hi>Odard</hi> the undoubted Anceſtor of the <hi>Duttons,</hi> and <hi>Ranulphus</hi> but the ſuppo<g ref="char:EOLhyphen"/>ſed Anceſtor of the <hi>Mainwarings,</hi> (ex<g ref="char:EOLhyphen"/>cept his partiality) I cannot imagine: For, firſt, the Sirname of <hi>Mainwaring</hi> was a fixed name, whereas the Sirname of <hi>Dutton</hi> was taken from that place; and if another Family had bought it of the Poſterity of <hi>Odard</hi> within few Ge<g ref="char:EOLhyphen"/>nerations after the Conqueſt, they poſ<g ref="char:EOLhyphen"/>ſibly might have ſtiled themſelves after that place, that being the manner of thoſe Ages, as Sir <hi>Peter</hi> tells us in his 250 <hi>page;</hi> and accordingly he not onely gives us examples there of three Branches
+<pb n="5" facs="tcp:34667:3"/>of the <hi>Duttons, viz. Warburton, Chedill,</hi> and <hi>Aſhley,</hi> who did all call themſelves after the Places where they lived, but he gives us many other like inſtances in many other places of his ſaid Book. Secondly, Sir <hi>Peter</hi> doth not add the Sirname of <hi>de Dutton</hi> in his ſaid 250 <hi>page,</hi> to the ſaid <hi>Odard,</hi> or <hi>Hugh</hi> Son of the ſaid <hi>Odard,</hi> but onely to <hi>Hugh de Dutton,</hi> Son of <hi>Hugh,</hi> who was the Third of that Family. Whereas the Sir<g ref="char:EOLhyphen"/>name of <hi>Meſnilwaren,</hi> or <hi>Mainwaring,</hi> was uſed, as you may ſee in the 111 <hi>page</hi> of the ſaid Book, in King <hi>William Rufus</hi> his days, by <hi>Richard Meſnil<g ref="char:EOLhyphen"/>waren,</hi> which (except the ſaid <hi>Ranul<g ref="char:EOLhyphen"/>phus</hi>) is the firſt <hi>Mainwaring</hi> that we do find. Thirdly, the principal reaſon (as I conceive) why Sir <hi>Peter</hi> ſays, <hi>Odard</hi> was the undoubted Anceſtor of the <hi>Duttons,</hi> is, becauſe the <hi>Duttons</hi> en<g ref="char:EOLhyphen"/>joyed thoſe Lands, which the ſaid <hi>Odard</hi> held in the Conqueror's time, which were, if I miſtake not, part of <hi>Dutton,</hi> which the ſaid <hi>Odard</hi> held of the Earl of <hi>Cheſter;</hi> and <hi>Aſton,</hi> and part of <hi>We<g ref="char:EOLhyphen"/>ſton,</hi> and part of <hi>Halton,</hi> which the ſaid <hi>Odard</hi> held under <hi>William Fitz-Nigel,</hi> Baron of <hi>Halton.</hi> But as the afore<g ref="char:EOLhyphen"/>ſaid
+<pb n="6" facs="tcp:34667:4"/>Lands of the aforeſaid <hi>Odard</hi> were enjoyed by the <hi>Duttons;</hi> ſo the Lands of the ſaid <hi>Ranulphus</hi> in <hi>Blaken, Weni<g ref="char:EOLhyphen"/>tone, Tatton, Pever, Warford, Little-Pever, Cepmundewiche, Ollerton, Sene<g ref="char:EOLhyphen"/>leſtune, Cocheſhalle, Hoiloch, Tadetune,</hi> (which is the ſame with <hi>Warmincham</hi>) <hi>Norwardine, Sundreland,</hi> and <hi>Bageley</hi> in <hi>Cheſhire,</hi> and the Lordſhip of <hi>Waburne</hi> in <hi>Norfolk,</hi> (being all the Lands which the ſaid <hi>Ranulphus</hi> held in the Conque<g ref="char:EOLhyphen"/>ror's time) were certainly enjoyed by the <hi>Mainwarings.</hi> But this I ſay not to take off any thing from the Family of <hi>Duttons,</hi> (for I am fully ſatisfied that <hi>Odard</hi> was their Anceſtor) but to ſhew the Partiality of Sir <hi>Peter,</hi> in doubting of <hi>Ranulphus</hi> more than of the ſaid <hi>Odard.</hi>
+            </p>
+            <p n="2">2. He tells us in his ſaid 330 <hi>page,</hi> That by antient Deeds there were antiently two Places or Hamlets in <hi>Over-Peover,</hi> one called <hi>Cepmundewich,</hi> the other <hi>Fo<g ref="char:EOLhyphen"/>don;</hi> whereas there were Seven ſuch Places there, <hi>viz. Cepmundewich, Fodon, Hongrill, Hethalis, Brydenbrugge, Twy<g ref="char:EOLhyphen"/>ford,</hi> and <hi>Radbroc.</hi> And it is very ſtrange, how Sir <hi>Peter</hi> could omit the laſt of theſe, ſeeing in the very ſame page he ſpeaks of <hi>Radbrook-houſe</hi> in <hi>Over-Peover;</hi>
+               <pb n="7" facs="tcp:34667:4"/>and mentions a Deed by which <hi>William Mainwaring,</hi> then Lord of <hi>Over-Peover,</hi> gave <hi>illam terram quae vocatur</hi> Radbroc <hi>integram,</hi> unto <hi>Thomas Mainwaring</hi> his younger Son.</p>
+            <p n="3">3. In the Pedigree of the <hi>Main<g ref="char:EOLhyphen"/>warings</hi> (<hi>page</hi> 331) he leaves out <hi>Ranul<g ref="char:EOLhyphen"/>phus,</hi> who is nominated in <hi>Doomſday-Book, Richard de Meſnilwarin,</hi> mentio<g ref="char:EOLhyphen"/>ned in his <hi>Hiſt. Antiq.</hi> (<hi>page</hi> 111.) <hi>Roger de Meſnilgarin,</hi> or <hi>Mainwaring,</hi> and <hi>Wil<g ref="char:EOLhyphen"/>liam</hi> and <hi>Randal</hi> his Sons, ſpoken of by him (<hi>page</hi> 341.) <hi>Roger de Menilgarin,</hi> or <hi>Mainwaring,</hi> named by him, (<hi>page</hi> 362.) Sir <hi>Ralph Mainwaring,</hi> and Sir <hi>Ro<g ref="char:EOLhyphen"/>ger Mainwaring</hi> his Son, both taken no<g ref="char:EOLhyphen"/>tice of by him, (<hi>page</hi> 330.) and this up<g ref="char:EOLhyphen"/>on a pretence, that they were Lords of <hi>Warmincham:</hi> Whereas I am confident he will not deny, but that the <hi>Main<g ref="char:EOLhyphen"/>warings</hi> of <hi>Warmincham</hi> were alſo Owners of <hi>Over-Peover,</hi> or the moſt part thereof, until Sir <hi>Roger Mainwaring</hi> gave <hi>Peover</hi> to his younger Son Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Mainwaring;</hi> preſently after which time, the Line of the <hi>Mainwarings</hi> of <hi>Warmincham</hi> failing, the <hi>Mainwarings</hi> of <hi>Peover</hi> became Heirs male to thoſe <hi>Mainwarings</hi> of <hi>Warmincham,</hi> Sir <hi>Warine
+<pb n="8" facs="tcp:34667:5"/>Mainwaring,</hi> Son of Sir <hi>Thomas Main<g ref="char:EOLhyphen"/>waring,</hi> Son of the ſaid Sir <hi>Roger,</hi> dying without Iſſue Male. And though he may pretend, that he did not mention thoſe <hi>Mainwarings</hi> of <hi>Warmincham,</hi> who alſo were Owners of <hi>Peover,</hi> becauſe they (as he ſuppoſeth) then lived at <hi>Warmin<g ref="char:EOLhyphen"/>cham,</hi> in another Hundred; yet in his ſaid Book he gives an account of the Deſcents of ſome, who had Eſtates in <hi>Bucklow</hi> Hundred, though he then looks upon them as living in other Hundreds.</p>
+            <p n="4">4. He tells us (<hi>page</hi> 332) that <hi>Margery Praers,</hi> one of the Coheirs of <hi>William Praers</hi> of <hi>Baddeley,</hi> (and Siſter to <hi>Joan</hi> the other Coheir, who was Wife to <hi>Wil<g ref="char:EOLhyphen"/>liam Mainwaring</hi>) married <hi>John Hon<g ref="char:EOLhyphen"/>ford</hi> of <hi>Honford,</hi> and afterwards that ſhe married <hi>Hugh Holt,</hi> 33 <hi>Edw.</hi> 3. but had no Iſſue by <hi>Holt,</hi> and that ſhe had Iſſue by <hi>John Honford</hi> a Son named <hi>John Honford,</hi> who was a Baſtard: But he is miſtaken in ſaying that <hi>Holt</hi> was her ſe<g ref="char:EOLhyphen"/>cond Husband; for <hi>Margery</hi> had her Baſtard <hi>John Honford,</hi> before ſhe had any Husband, and ſhe was Wife to <hi>Hugh Holt,</hi> 33 <hi>Edw.</hi> 3. and ſhe was Wife to <hi>John Honford</hi> 46, 47, and 50 of <hi>Edw.</hi> 3.</p>
+            <p n="5">5. In the 332 <hi>page,</hi> he takes no notice, that <hi>William Leigh</hi> of <hi>Baggeleigh,</hi> who
+<pb n="9" facs="tcp:34667:5"/>married <hi>Joan,</hi> the Daughter of <hi>William Mainwaring</hi> of <hi>Peover,</hi> in the 33 of <hi>Edw.</hi> 3. was a Knight; and yet, as you may ſee in his 217 <hi>page,</hi> he knew the ſaid <hi>William</hi> to be a Knight.</p>
+            <p n="6">6. He ſays in his ſaid 332 <hi>page,</hi> That <hi>William Mainwaring</hi> the Elder, who lived 33 <hi>Edw.</hi> 3. ſealed with <hi>three Bars,</hi> with a <hi>Lion paſſant in Chief;</hi> whereas the Coat of Arms was <hi>Argent, two Bars Gules, on a Chief of the Second, a Lion paſſant, gardant Or;</hi> and ſo it is cut in his own Book, <hi>page</hi> 331.</p>
+            <p n="7">7. He takes notice (<hi>page</hi> 332.) that <hi>William,</hi> younger Son of <hi>William,</hi> Son of <hi>William Mainwaring,</hi> had a Daughter named <hi>Ellen,</hi> who was married to <hi>Adam Glaſebroke:</hi> But he omits <hi>John</hi> and <hi>Mar<g ref="char:EOLhyphen"/>gery,</hi> Brother and Siſter to the ſaid <hi>Ellen.</hi>
+            </p>
+            <p n="8">8. He ſays (<hi>page</hi> 332.) that <hi>William</hi> Son of <hi>Roger Mainwaring</hi> died about 12 or 13 of <hi>Edw.</hi> 3. whereas I find him Par<g ref="char:EOLhyphen"/>ty to a Deed made on the Eve of S. <hi>John Baptiſt,</hi> 14 <hi>Edw.</hi> 3. and how long he lived after, I believe no man can tell.</p>
+            <p n="9">9. He ſays (<hi>page</hi> 332.) that <hi>William Mainwaring,</hi> Son of <hi>William Mainwaring</hi> and <hi>Joan Praers,</hi> did divide the Lands of <hi>Baddeley</hi> between <hi>John Mainwaring</hi>
+               <pb n="10" facs="tcp:34667:6"/>his Half-brother, and <hi>John Honford;</hi> whereas he gave ſeveral thouſand Acres of Land, which came by his Mother, and of the which the Demeſn of <hi>Baddeley</hi> was part, ſolely to his ſaid Brother <hi>John,</hi> and onely divided the remainder of the ſaid Lands; and the Will which directs that Diviſion, doth alſo direct the diſpoſal of the other Lands.</p>
+            <p n="10">10. He takes notice (<hi>page</hi> 333.) that <hi>William Mainwaring</hi>'s Seal, 17 <hi>Rich.</hi> 2. had the Impreſſion of his Coat and Creſt, to wit, in an <hi>Eſcocheon, two Bars</hi> onely; and corner-ways, on the Dexter Angle, on an Helmet, an <hi>Aſs-head cooped,</hi> &amp;c. which (he ſays) his Heirs have ever ſince continued, to wit, <hi>Argent two Bars Gules;</hi> the Creſt, <hi>An Aſs-head cooped, proper:</hi> And tells you, that the ſaid <hi>Wil<g ref="char:EOLhyphen"/>liam</hi> died 1399, 22 <hi>Rich.</hi> 2. Whereas all the <hi>Mainwarings</hi> that I can find, who have lived ſince the ſaid <hi>William,</hi> have either given the <hi>Aſs-head on a Torce and Halter</hi>'d, or elſe the <hi>Aſs-head Eraſed,</hi> or elſe the <hi>Aſs-head unhalter'd, and within a Crown.</hi>
+            </p>
+            <p n="11">11. He ſays (<hi>page</hi> 333.) that <hi>William Mainwaring</hi> (the Husband of <hi>Katherine Belgrave</hi> and <hi>Clementia Cotton</hi>) ſetled his
+<pb n="11" facs="tcp:34667:6"/>Eſtate, upon his departure out of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> towards <hi>Guien,</hi> 17 <hi>R.</hi> 2. 1393. and afterwards made his Will, 1394. Where<g ref="char:EOLhyphen"/>as the ſaid ſettlement made 17 <hi>R.</hi> 2. was alſo a Will, and was but of part of the Eſtate which he had by his Mother; and beſides that and the other Will, dated 1394. he made a third Will, 1399, by which laſt Will he gave directions to his Feoffees how to diſpoſe of all his Mo<g ref="char:EOLhyphen"/>thers Lands; but he diſpoſed not of thoſe Lands he had as Heir to his Father, by any of the ſaid Wills.</p>
+            <p n="12">12. He ſays (<hi>page</hi> 333.) that <hi>John Mainwaring</hi> of <hi>Over-Peover,</hi> married <hi>Margaret,</hi> the Widow of Sir <hi>John War<g ref="char:EOLhyphen"/>ren</hi> of <hi>Poynton</hi> in <hi>Cheſhire,</hi> and Daugh<g ref="char:EOLhyphen"/>ter and Heir of Sir <hi>John Stafford</hi> of <hi>Wig<g ref="char:EOLhyphen"/>ham,</hi> about 13 <hi>Rich.</hi> 2. For Sir <hi>John War<g ref="char:EOLhyphen"/>ren</hi> died the Tenth of <hi>Rich.</hi> 2. But how Sir <hi>John Warren</hi>'s dying in the Tenth of <hi>Rich.</hi> 2. doth prove, that the ſaid <hi>John Mainwaring</hi> married his Widow, about the Thirteenth of <hi>Rich.</hi> 2. I confeſs I do not underſtand.</p>
+            <p n="13">13. He ſays (<hi>page</hi> 333.) that <hi>John Mainwaring</hi> was made Sheriff of <hi>Cheſhire,</hi> 4 <hi>Hen.</hi> 4. and continued Sheriff 5 <hi>H.</hi> 4. and 6 <hi>H.</hi> 4. but he omits his being Sheriff 7 <hi>H.</hi> 4.</p>
+            <pb n="12" facs="tcp:34667:7"/>
+            <p n="14">14. He ſays, (<hi>page</hi> 333.) that <hi>John Mainwaring</hi> died 11 <hi>H.</hi> 4. 1410. where<g ref="char:EOLhyphen"/>as he was certainly dead in the year 1409.</p>
+            <p n="15">15. He ſays (<hi>page</hi> 334.) that <hi>Margery</hi> ſurvived her Husband <hi>Randle Main<g ref="char:EOLhyphen"/>waring,</hi> and erected a Stone-Chappel on the South-ſide of <hi>Over-Peover</hi> Church, with the two Monuments therein for her ſelf and her Husband, 1456. Whereas the ſaid <hi>Margery</hi> was certainly dead in the year 1449. and died ſeveral years before her ſaid Husband, as you may ſee in the 75, 76, 77, and 78 pages of my <hi>Defence of Amicia,</hi> printed in the year 1673.</p>
+            <p n="16">16. He ſays (<hi>page</hi> 334.) that Sir <hi>John Mainwaring</hi> of <hi>Over-Peover</hi> died about the very end of <hi>Edw.</hi> 4. Reign; but the ſaid King <hi>Edward</hi> died in the Twenty third year of his Reign, and the ſaid Sir <hi>John Mainwaring</hi> was certainly dead on the 14 day of <hi>April,</hi> in the Twentieth year of the ſaid Kings Reign, as appears by a Precept to the <hi>Eſcheator</hi> of <hi>Cheſhire,</hi> bearing the ſaid date.</p>
+            <p n="17">17. He omits in the 335 <hi>page, Agnes</hi> the Daughter of <hi>John Mainwaring</hi> of <hi>Peover,</hi> 
+               <abbr>Eſq</abbr> and Wife of Sir <hi>Robert
+<pb n="13" facs="tcp:34667:7"/>Nedham</hi> Knight; and this, although he had been informed of a two-fold un<g ref="char:EOLhyphen"/>doubted proof thereof, as you may ſee in the 79 and 80 pages of my <hi>Defence of Amicia,</hi> before mentioned.</p>
+            <p n="18">18. He poſitively ſays (<hi>page</hi> 335) that <hi>Katherine</hi> the Daughter of Sir <hi>John Mainwaring,</hi> was married to <hi>William,</hi> Son of <hi>Humphrey Newton</hi> of <hi>Pownall,</hi> 13 <hi>H.</hi> 8. 1521. But the Deeds concerning thoſe Lands which ſhe was to have in Joyn<g ref="char:EOLhyphen"/>ture (at which time ſhe was certainly unmarried) were dated the firſt and ſe<g ref="char:EOLhyphen"/>cond of <hi>March,</hi> in 13 <hi>H.</hi> 8. which was in the year 1521. according to the ac<g ref="char:EOLhyphen"/>count of the Church of <hi>England,</hi> but in the year 1522. according to the <hi>Ju<g ref="char:EOLhyphen"/>lian</hi> account. Now the Dominical Let<g ref="char:EOLhyphen"/>ter being that year <hi>E.</hi> and the Golden Number 3. the ſecond of <hi>March</hi> would be <hi>Shrove-Sunday,</hi> and <hi>Easter-day</hi> on the twentieth of <hi>April;</hi> and <hi>Lent</hi> being a time not uſual for Marriage, and eſpe<g ref="char:EOLhyphen"/>cially in the time of King <hi>Henry</hi> the Eighth, in all probability the Marriage was not till after <hi>Eaſter;</hi> and if ſo, it was not until the year 1522. However there is no certainty of what Sir <hi>Peter</hi> there ſays.</p>
+            <pb n="14" facs="tcp:34667:8"/>
+            <p n="19">19. He alſo (in the ſaid 335 <hi>page</hi>) tells us, how Sir <hi>John Mainwaring</hi> was She<g ref="char:EOLhyphen"/>riff of <hi>Flintſhire.</hi> 6 <hi>H.</hi> 8. 1514. but takes no notice of his being Sheriff there in the 23 and 24 years of King <hi>Hen.</hi> 7. and 1 <hi>Hen.</hi> 8. and 2 <hi>Hen.</hi> 8. and probably ever from then till the end of 6 <hi>Hen.</hi> 8.</p>
+            <p n="20">20. He ſays (<hi>page</hi> 335.) that Sir <hi>John Mainwaring</hi> died 8 <hi>H.</hi> 8. 1515. Whereas no part of the eighth year of King <hi>Hen.</hi> 8. was in any part of the year 1515. nei<g ref="char:EOLhyphen"/>ther did the ſaid Sir <hi>John</hi> die in the eighth year of the ſaid King.</p>
+            <p n="21">21. He ſays (<hi>page</hi> 335.) that Sir <hi>Ran<g ref="char:EOLhyphen"/>dle Mainwaring,</hi> after the death of his firſt Wife, married <hi>Elizabeth,</hi> the Daugh<g ref="char:EOLhyphen"/>ter of Sir <hi>Ralph Leiceſter</hi> of <hi>Toft,</hi> 6 <hi>Edw.</hi> 6. 1551. but he cannot prove that they were married until the year 1552.</p>
+            <p n="22">22. He ſays (<hi>page</hi> 336.) that <hi>Philip Mainwaring</hi> of <hi>Over-Peover,</hi> 
+               <abbr>Eſq</abbr> fifth Son of Sir <hi>John Mainwaring,</hi> and Bro<g ref="char:EOLhyphen"/>ther and next Heir-male to Sir <hi>Randle,</hi> married <hi>Anne,</hi> Daughter of Sir <hi>Raufe Leiceſter</hi> of <hi>Toft;</hi> and tells us from his Monument the time of the ſaid <hi>Philip</hi>'s death. But though the reſt of them died young, yet <hi>Philip</hi> was born the ſeventh, and not the fifth Son of the ſaid Sir <hi>John,</hi>
+               <pb n="15" facs="tcp:34667:8"/>as appears by the Monument of the ſaid Sir <hi>John,</hi> which is in the ſame Chappel that the Monument of the ſaid <hi>Philip</hi> is in.</p>
+            <p n="23">23. He ſays (in the ſame page) that the Herald in the Reign of Queen <hi>Eli<g ref="char:EOLhyphen"/>zabeth,</hi> made for the Coat of the ſaid Sir <hi>Randle</hi> the elder, <hi>Barry of twelve pieces, Argent and Gules.</hi> But the Coat which the ſaid Sir <hi>Randle</hi> did then uſu<g ref="char:EOLhyphen"/>ally bear, was, <hi>Argent ſix Barulets Gules,</hi> which the ſaid Sir <hi>Randle</hi> did give, be<g ref="char:EOLhyphen"/>cauſe the moſt antient of the Deeds of the <hi>Mainwarings</hi> were ſealed with <hi>ſix Barulets;</hi> but the <hi>Mainwarings</hi> ſince then have again given <hi>two Bars</hi> onely, according to what they had done of a long time before, the <hi>two Bars</hi> having been alſo uſed to Deeds without date: Alſo in the 330 page, you may read, that Sir <hi>Peter</hi> knew the antient Coat to be <hi>ſix Barulets,</hi> and not to be <hi>Barry of twelve pieces Argent and Gules.</hi>
+            </p>
+            <p n="24">24. He alſo ſays (in that ſame page) that Sir <hi>Randle Mainwaring</hi> the elder, built the Hall of <hi>Over-Peover</hi> a new, 1586. the Fabrick being now of Brick; but one part of the ſaid Houſe was built 1585. and another part was built 1586.</p>
+            <pb n="16" facs="tcp:34667:9"/>
+            <p n="25">25. He ſays (<hi>page</hi> 336.) that Sir <hi>Phi<g ref="char:EOLhyphen"/>lip Mainwaring,</hi> youngeſt Son of Sir <hi>Randle Mainwaring</hi> the elder, of <hi>Peover,</hi> Knight, was Secretary of <hi>Ireland</hi> to the Earl of <hi>Strafford,</hi> 1638. Whereas the ſaid Sir <hi>Philip</hi> was his Majeſty's Secretary of State there.</p>
+            <p n="26">26. He ſays (<hi>page</hi> 336.) that Sir <hi>Philip Mainwaring</hi> died, 2<hi rend="sup">0</hi> 
+               <hi>die Auguſti,</hi> 1661. at <hi>London;</hi> But he died at <hi>Weſtminſter,</hi> at Sir <hi>Philip Warwick</hi>'s Houſe, which is in or near to St. <hi>James</hi>'s Park.</p>
+            <p n="27">27. He alſo ſays (in the ſame page) that <hi>Anne,</hi> third Daughter of Sir <hi>Randle Mainwairing,</hi> of <hi>Peover,</hi> the younger, (which <hi>Anne</hi> was Couſin-Germain to the ſaid Sir <hi>Peter</hi>) married <hi>Robert Brierwood</hi> of <hi>Cheſter,</hi> Counſellor at Law, after, Sir <hi>Robert Brierwood,</hi> Knighted 1643. and Judge of three Shires in <hi>Wales:</hi> But he takes no notice that he was made Ser<g ref="char:EOLhyphen"/>geant at Law 1640. nor that he was made one of the Judges of the <hi>Kings Bench</hi> 1643. Indeed amongſt the Recor<g ref="char:EOLhyphen"/>ders of <hi>Cheſter, (page</hi> 187.) he tells us, that the ſaid Sir <hi>Robert</hi> was made Judge of the <hi>Common-Pleas,</hi> and Knighted at <hi>Oxford</hi> 1643. But the ſaid Sir <hi>Robert</hi> was never any Judge of the Court of <hi>Com<g ref="char:EOLhyphen"/>mon-Pleas,</hi>
+               <pb n="17" facs="tcp:34667:9"/>but the King did conſtitute him, <hi>unum Juſticiariorum ad placita co<g ref="char:EOLhyphen"/>ram Rege,</hi> in the year 1643. that is, he then made him one of the Judges of the <hi>King's Bench,</hi> or <hi>
+                  <g ref="char:V">Ʋ</g>pper Bench:</hi> But it ſeems Sir <hi>Peter</hi> did not know the mean<g ref="char:EOLhyphen"/>ing of the aforeſaid words. He alſo (in the 334 <hi>page</hi>) ſays, That Sir <hi>John Ned<g ref="char:EOLhyphen"/>ham,</hi> who married <hi>Margaret,</hi> the Daugh<g ref="char:EOLhyphen"/>ter of <hi>Randle Mainwaring,</hi> was <hi>Justicia<g ref="char:EOLhyphen"/>rius de Banco,</hi> and Judge of <hi>Cheſter,</hi> 1 <hi>Edw.</hi> 4. that is, he was then one of the Judges of the Court of <hi>Common-Pleas,</hi> and Judge of <hi>Cheſter;</hi> for he was <hi>Justi<g ref="char:EOLhyphen"/>ciarius de Banco,</hi> in the year 1457. 35 <hi>Hen.</hi> 6. and he was Judge of <hi>Cheſter</hi> 1 <hi>Edw.</hi> 4. But as Sir <hi>Peter</hi> did miſtake <hi>Juſticiarius ad placita coram Rege,</hi> to be a Judge of the <hi>Common-Pleas;</hi> ſo I ſup<g ref="char:EOLhyphen"/>poſe he did there erroneouſly take <hi>Ju<g ref="char:EOLhyphen"/>ſticiarius de Banco</hi> to be a Judge of the <hi>King's Bench,</hi> or elſe I believe he would have told us, that the ſaid <hi>John Need<g ref="char:EOLhyphen"/>ham</hi> was afterwards made a Judge of the <hi>King's Bench;</hi> for he had a Patent to be one of the <hi>Judges</hi> of that Court 1472. 11 <hi>Edw.</hi> 4. as you may ſee in the <hi>Chro<g ref="char:EOLhyphen"/>nica Series,</hi> at the end of Mr. <hi>Dugdale</hi>'s <hi>Origines Juridiciales,</hi> printed in the year 1666.</p>
+            <pb n="18" facs="tcp:34667:10"/>
+            <p n="28">28. He ſays (<hi>page</hi> 336.) That <hi>Philip Mainwaring</hi> 
+               <abbr>Eſq</abbr> Son and Heir of Sir <hi>Randle</hi> the younger, married <hi>Ellen,</hi> Daughter of <hi>Edward Mynſhul</hi> of <hi>Stoke,</hi> 
+               <abbr>Eſq</abbr> 20 <hi>Jac.</hi> 1622. But the ſaid <hi>Philip</hi> and <hi>Ellen</hi> were married 1617. and their eldeſt Son <hi>Randle</hi> was born the 25 of <hi>July,</hi> 1619. and their ſecond Son <hi>Philip</hi> was born the 25 of <hi>May,</hi> 1621.</p>
+            <p n="29">29. He ſays (<hi>page</hi> 337.) that Mrs. <hi>Ellen Mainwaring</hi> built a ſtately Stable and Dove-houſe at <hi>Peover,</hi> in the year 1654. But the ſaid Stable was built in the year 1653. and finiſhed within 1654. and the ſaid Dove-houſe was not built till the year 1656.</p>
+            <p n="29">29. He ſays (<hi>page</hi> 336.) That <hi>Marga<g ref="char:EOLhyphen"/>ret</hi> Daughter of Sir <hi>Randle Mainwair<g ref="char:EOLhyphen"/>ing</hi> the younger, and Wife of <hi>Henry Birkenhead,</hi> died at <hi>Chester</hi> 25 <hi>July</hi> 1661. but ſhe died on <hi>Saturday</hi> the 20 of <hi>July,</hi> 1661. and was buried at <hi>Back<g ref="char:EOLhyphen"/>ford</hi> on <hi>Tueſday</hi> the 23 day of the ſaid moneth.</p>
+            <p>I alſo think good (having this opportu<g ref="char:EOLhyphen"/>nity) to remind the Reader, how in the 63 page of my Anſwer to Sir <hi>Peter</hi>'s two Books, I did declare, That ſince it did appear, that he was reſolved to have
+<pb n="19" facs="tcp:34667:10"/>the laſt word, although he had nothing new to ſay, that if what he did after that time write, did prove no more to the purpoſe, than what he had ſaid in his ſaid two Books, that I would not ap<g ref="char:EOLhyphen"/>pear in Print againſt him any more, but would chuſe to vindicate my Grand<g ref="char:EOLhyphen"/>mother and my ſelf by word of mouth, whenſoever I ſhould have an opportu<g ref="char:EOLhyphen"/>nity ſo to do. And for this reaſon, when Sir <hi>Peter</hi> did, within a few days after, print his <hi>Advertiſement</hi> to the Reader, becauſe it did contain little, but a mi<g ref="char:EOLhyphen"/>ſtake of his, of a Record concerning <hi>Lhewellin</hi> Prince of <hi>North-Wales,</hi> I did thereupon forbear to publiſh that An<g ref="char:EOLhyphen"/>ſwer which I did write to the ſame. Since that time, Sir <hi>Peter</hi> hath put out at once no leſs than three Books con<g ref="char:EOLhyphen"/>cerning the ſame Subject, <hi>viz.</hi> His Se<g ref="char:EOLhyphen"/>cond <hi>Reply,</hi> his <hi>Peroratio ad Lectorem,</hi> and a <hi>Third,</hi> which he calls, <hi>The Caſe of Amicia truly stated;</hi> which certainly was a great deal of loſt labour, if his for<g ref="char:EOLhyphen"/>mer Books had made the Caſe ſo clear, as he all along hath pretended they did.</p>
+            <p>In all thoſe Books which Sir <hi>Peter</hi> hath written upon this occaſion, the
+<pb n="20" facs="tcp:34667:11"/>ſame things are ſaid over and over again, ſo very often, as I believe the like will not be found elſewhere; ſo that it would be pleaſant, if ſome perſon, who hath little elſe to do, would take an ac<g ref="char:EOLhyphen"/>count how many times he hath repeated the ſame things. Since he did declare in his firſt <hi>Reply,</hi> that he had taken his leave for ever of this Controverſie; he hath printed no leſs than ſeven ſeveral things, and four of them ſince I did ap<g ref="char:EOLhyphen"/>pear publickly againſt him; and in the end of his <hi>Peroratio ad Lectorem,</hi> he ſays he hath done, if I have done, which is as much as to ſay, That ſo long as I print any thing concerning <hi>Amicia,</hi> he will never have done: For this cauſe, though I intend ſpeedily to write an Anſwer to that part of the Record, which is men<g ref="char:EOLhyphen"/>tioned in the 76 page, and the firſt part of the 77 page in his ſaid <hi>Peroratio,</hi> yet I do not deſign it at preſent for the pub<g ref="char:EOLhyphen"/>lick Preſs; however, I ſhall willingly ſhew both it, and my Anſwer to his <hi>Ad<g ref="char:EOLhyphen"/>vertiſement</hi> to the Reader, to all know<g ref="char:EOLhyphen"/>ing perſons, who ſhall come to me, and deſire to ſee the ſame; and I do not doubt but to give them full ſatisfaction
+<pb n="21" facs="tcp:34667:11"/>of Sir <hi>Peter</hi>'s miſtakes, concerning both thoſe Records, and that they do not prove thoſe things which he doth con<g ref="char:EOLhyphen"/>ceit they do.</p>
+            <p>As for that Letter of mine, which Sir <hi>Peter</hi> doth ſpeak of in the 63, 80, 82, and 84 pages in his <hi>Peroratio ad Lecto<g ref="char:EOLhyphen"/>rem,</hi> it is poſſible I might write to a Kinſman of his and mine, to acquaint him how Mr. <hi>Dugdale</hi> had delivered his Opinion in Print on my ſide; as alſo what I had received from a very good hand, concerning ſeveral of our Judges; but I know nothing at all of my Letter being left with Mr. <hi>Throp,</hi> the Stationer in <hi>Cheſter,</hi> to be divulged and made known to every man in Town. And I am ſure I did not write, that Mr. <hi>Dug<g ref="char:EOLhyphen"/>dale</hi> had moved the Judges in the caſe; for Mr. <hi>Dugdale</hi> was not in <hi>London</hi> when that Meeting was, neither did he or I know of it, till that Meeting was paſt, and it was occaſion'd by Sir <hi>Peter</hi>'s Appeal to them: But though he once thought the Judges of this Land fit per<g ref="char:EOLhyphen"/>ſons to determine this Controverſie, yet he now ſays in the 81 page in his <hi>Pe<g ref="char:EOLhyphen"/>roratio ad Lectorem,</hi> That this <hi>Queſtion
+<pb n="22" facs="tcp:34667:12"/>hath nothing of any Law in the caſe, and therefore</hi> unfit <hi>to be put to our</hi> Reverend Judges <hi>for their Opinions, unleſs all the Records and Hiſtories touching the ſame, together with the Reaſons alledged on both ſides, were produced before them: It is more proper for them to judge onely upon the point of Law.</hi> Now how they can judge upon the point of Law, if there be nothing of any Law in the caſe, may be perhaps very difficult for any but Sir <hi>Peter</hi> to tell.</p>
+            <p>He alſo in the 66 and 67 pages of his ſaid Book, ſays, That Mr. <hi>Dugdale,</hi> ſome years ago, did draw up my Pedigree, wherein he put <hi>Amicia</hi> without the di<g ref="char:EOLhyphen"/>ſtinction of a Baſtard, and is therefore the more concern'd to ſtickle for me, in this conteſt: But though he deal not well with me, in charging me unjuſtly with many things in his former, and alſo in theſe his laſt Books, (which thoſe that are Learned will eaſily diſcover) yet Mr. <hi>Dugdale</hi> is a perſon of that know<g ref="char:EOLhyphen"/>ledge and integrity, that I believe he cannot perſwade any one man, that Mr. <hi>Dugdale</hi> doth ſtickle for me herein upon that account. And Sir <hi>Peter</hi> himſelf very
+<pb n="23" facs="tcp:34667:12"/>well knows, that long before that Pedi<g ref="char:EOLhyphen"/>gree of mine was drawn, Mr. <hi>Dugdale</hi> was of the ſame judgment concerning <hi>Amicia,</hi> of which he is now.</p>
+            <p>I do alſo expect, that Sir <hi>Peter</hi> will write ſeveral Books againſt what I have here publiſhed, about his Miſtakes con<g ref="char:EOLhyphen"/>cerning my Family; which if he do, I ſhall not go about publickly to anſwer any of them, becauſe I know I ſhould then undertake a work which would never have an end: But if any one will come to me, I will ſhew proof of all the Uncertainties, Omiſſions, and Miſtakes, which I have charged Sir <hi>Peter</hi> withall, and they are not any of them to be im<g ref="char:EOLhyphen"/>puted to the Printers negligence; for Sir <hi>Peter</hi> rectifies ſome Omiſſions and Errors in his <hi>Hiſtorical Antiquities,</hi> at the end of his <hi>Anſwer</hi> to my <hi>Defence of Ami<g ref="char:EOLhyphen"/>cia,</hi> and tells the Reader, That thoſe <hi>Amendments will ſet him ſtreight, together with the Correction of the Errata's of Printing, committed by the great negli<g ref="char:EOLhyphen"/>gence of the Printer, which are now men<g ref="char:EOLhyphen"/>tioned and rectified by a distinct page, at the end of the ſaid Book.</hi> And there are none of thoſe which I charge him with,
+<pb n="24" facs="tcp:34667:13"/>mentioned in either of the ſaid places, except that about the Chappel at <hi>Peover,</hi> which he ſaid <hi>Margery,</hi> the Wife of <hi>Randle Mainwaring,</hi> did erect; and that about <hi>Agnes Mainwaring,</hi> Wife of Sir <hi>Robert Nedham;</hi> both which he did not rectifie, until I told him of thoſe Errors, in the latter end of the firſt Book, which I did write.</p>
+            <closer>
+               <dateline>Baddeley, <date>Auguſt 4. 1676.</date>
+               </dateline>
+               <signed>T. M.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:34667:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
